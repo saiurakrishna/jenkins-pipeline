@@ -1,2 +1,4 @@
 Hello from dev
+try to replicate conflicts
 Replaced
+
